@@ -1,0 +1,18 @@
+{
+  "name": "async-race-api",
+  "version": "1.0.0",
+  "description": "API for Async race app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Kobil",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
